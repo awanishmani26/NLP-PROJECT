@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scikit-learn
+flask
+nltk
+beautifulsoup4
+gensim
+-e .
