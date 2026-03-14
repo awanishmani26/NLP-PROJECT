@@ -18,7 +18,18 @@ env/
 artifacts/
 *.pkl
 *.model
+artifacts/
+models/
+*.pkl
+*.joblib
+*.csv
+__pycache__/
+venv/
+.ipynb_checkpoints
 
+artifacts/
+*.pkl
+*.csv
 # datasets
 *.csv
 *.zip
